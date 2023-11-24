@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Biswajit Sahoo, QA Software Engineer From Jajpur, Odisha.
+- 👋 Hi, I’m Biswajit Sahoo, Software Test Engineer From Jajpur, Odisha.
 - 👀 I Like to explore new trends and learn new Technologies.
 - 🌱 I’m currently working on Software Testing Project.
 - 💞️ I’m on track about:- Manual Testing |Automation Testing |Api Testing |Sql |Java .
