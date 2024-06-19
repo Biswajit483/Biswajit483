@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Biswajit Sahoo, Software Test Engineer From Jajpur, Odisha.
 - 👀 I Like to explore new trends and learn new Technologies.
 - 🌱 I’m currently working on Software Testing Project.
-- 💞️ I’m on track about:- Manual Testing |Automation Testing |Api Testing |Sql |Java .
+- 💞️ I’m on track about:- Automation Testing | Manual Testing |Api Testing |Java | SQL |Jira | Git/Github .
 - 📫 How to reach me :- sahoobiswajit158@gmail.com
 
 <!---
